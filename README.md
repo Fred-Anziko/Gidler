@@ -178,7 +178,7 @@ Contact Information: (Optional) Contact information (e.g., email address, phone 
 # 12. Technical Specifications
 # Programming Languages:
 Frontend: (Flet)
-Backend: Python3(Flask)
+Backend: Python3(FastAPI)
 Database:
 Relational database (SQLITE, PostgreSQL)
 # Cloud Hosting:
