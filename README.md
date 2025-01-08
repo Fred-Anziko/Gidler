@@ -1,7 +1,5 @@
 # Gidler
 Get it done
-# Design and Roadmap
-Gidler, get it done project design
 
 # 1. Empathy Maps
 
