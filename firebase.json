@@ -6,7 +6,7 @@
     },
     "apphosting": {
       "port": 5002,
-      "rootDirectory": "./",
+      "rootDirectory": "./functions",
       "startCommand": "npm run dev"
     },
     "auth": {
