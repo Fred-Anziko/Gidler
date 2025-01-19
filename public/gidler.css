@@ -18,6 +18,7 @@ body { background-image: url('gidler_icon.png');
         color: #AF9D76;
         display: grid; 
         place-items: center; 
+        border-radius: 25%;
         box-shadow: none; 
         min-height: 100vh;
 }
