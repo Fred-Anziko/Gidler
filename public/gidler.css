@@ -12,7 +12,7 @@
     --clr: #222327;
 }
 
-body { background-image: url('gidler_icon.png');
+body { background-image: url('./gicons/gidler_icon.png');
         background-position: center center;
         background-size:cover; 
         color: #AF9D76;
