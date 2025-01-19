@@ -38,13 +38,14 @@ body, #message { margin-top: 0; text-align: center;box-shadow: none; }
     display: block;
     border-radius: 25%/25%;}
 #message button {
-    background-color: #4285f4; /* Google blue */
-    color: white;
     text-align: center;
     font-size: 25px;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 5px;
+    background: #3498db; 
+    color: white; 
+    padding: 15px 30px; 
+    border-radius: 25px;
+    border: #AF9D76;
+    box-shadow: 5px 5px 5px #AF9D76; 
     cursor: pointer;
     
 /*START OF gidler-home.html*/
