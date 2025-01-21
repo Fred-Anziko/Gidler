@@ -106,7 +106,7 @@ body, #message { margin-top: 0; text-align: center;box-shadow: none; }
 .navigation ul li a .text {
     position: absolute;
     color: var(--clr);
-    font-weight: 400;
+    font-weight: bold;
     font-size: 00.75em;
     letter-spacing: 0.05em;
     transition: 0.5s;
