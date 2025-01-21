@@ -1,3 +1,4 @@
+/*THEME: COLOR:#AF9D76 or #87CEEB or white; FONT-FAMILY:'Chewy'; BACKGROUND:gidler_icon.png;*/
 @font-face {
     font-family: 'Chewy';
     src: url('Chewy/Chewy-Regular.ttf') format('truetype');    
@@ -42,7 +43,7 @@ body, #message { margin-top: 0; text-align: center;box-shadow: none; }
 #message button {
     text-align: center;
     font-size: 25px;
-    background: #3498db; 
+    background: #87CEEB; 
     color: white; 
     padding: 15px 30px; 
     border-radius: 25px;
@@ -55,7 +56,7 @@ body, #message { margin-top: 0; text-align: center;box-shadow: none; }
 .navigation {
     width: 400px;
     height: 70px;
-    background: #fff;
+    background: #87CEEB;
     position: fixed;
     bottom: 0%;
     display: flex;
@@ -125,7 +126,7 @@ body, #message { margin-top: 0; text-align: center;box-shadow: none; }
     height: 70px;
     background: #AF9D76;
     border-radius: 25%;
-    border: 10px solid var(--clr);
+    border: 5px solid var(--clr);
     transition: 0.5s;
 }
 
