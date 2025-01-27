@@ -26,7 +26,7 @@ body { background-image: url('./gicons/gidler_icon.png');
 }
 /*START OF index.html style*/
 #message { max-width: 360px; margin: 100px auto 16px; padding: 32px 24px; border-radius: 3px; }
-#message h1 { font-size: 75px;font-weight: bold;text-align: center; position: absolute;top: 0;left: 0;right: 0; color: #AF9D76; margin: 0 0 16px;}
+#message h1 { font-size: 75px;font-weight: bold;text-align: center; position: absolute;top: 0; color: #AF9D76; margin: 0 0 16px;}
 #message h2 { color: whitesmoke; text-align: center; font-weight: bold;font-size: 50px; margin: 0 0 16px; }
 #message p { line-height: 140%; margin: 16px 0 24px; font-size: 12px; }
 #message a { display: block; text-align: center; background: #039be5; text-transform: uppercase; text-decoration: none; color: white; padding: 16px; border-radius: 4px; }
