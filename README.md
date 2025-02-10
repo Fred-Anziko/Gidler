@@ -175,12 +175,14 @@ Contact Information: (Optional) Contact information (e.g., email address, phone 
 
 # 12. Technical Specifications
 # Programming Languages:
-Frontend: (Flet)
-Backend: Python3(FastAPI)
-Database:
-Relational database (SQLITE, PostgreSQL)
+Frontend: HTML5,CSS3,JavaScript 
+Backend: Python3(Flask)
+Firebase functions and other tools
+Database:NoSQL: Firestore
 # Cloud Hosting:
-Google Cloud Platform(Firebase hosting)
+Firebase hosting
+# Maps
+google maps for displaying tasks on the homepage as map view or List view depending on the relative location to the user
 # Payment Gateway Integration:
 Integrate with local payment processors (Airtel Money, MTN Mobile Money).
 # Security:
